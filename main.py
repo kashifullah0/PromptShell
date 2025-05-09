@@ -4,7 +4,7 @@ import subprocess
 import platform
 import os
 
-GEMINI_API_KEY = "Your Google Gemini APi Key"
+GEMINI_API_KEY = "Your Google Gemini Api Key"
 
 class SmartTerminal:
     def __init__(self):
